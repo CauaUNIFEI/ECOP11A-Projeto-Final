@@ -16,19 +16,22 @@ identifique uma pessoa não autorizada ele manda um alerta para o usuário que t
 E também possui um botão manual para desabilitar o alarme e leds para sinalizar o estado do servo motor.
 
 ## Componentes 
--Esp32
--Protoboard
--Servo Motor
--Led verde e vermelho
--Sensor Ultrasônico
--Jumpers
--Botão
+- Esp32
+- Protoboard
+- Servo Motor
+- Led verde e vermelho
+- Sensor Ultrasônico
+- Jumpers
+- Botão
+
 ## Diagrama em Blocos
 
 ![Diagrama em Blocos](ing/Diagrama_de_Bloco.png)
 
 ## Circuito no EasyEDA
+
 ![Circuito no EasyEDA](ing/Circuito_Introdução.png)
 
 ##Foto do Projeto
+
 ![Projeto Real](ing/Diagrama_de_Bloco.png)
