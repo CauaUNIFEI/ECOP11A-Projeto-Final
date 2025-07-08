@@ -36,4 +36,4 @@ E também possui um botão manual para desabilitar o alarme e leds para sinaliza
 
 ##Fluxograma
 
-![Fluxogrma]()
+![Fluxogrma](ing/fluxograma.jpg)
