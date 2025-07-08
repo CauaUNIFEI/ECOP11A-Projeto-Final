@@ -25,4 +25,8 @@ E também possui um botão manual para desabilitar o alarme e leds para sinaliza
 -Botão
 ## Diagrama em Blocos
 
-[file:///C:/Users/cauas/Downloads/Diagrama_de_Bloco.png](legenda da imagem)
+![Diagrama em Blocos](ing/Diagrama_de_Bloco.png)
+
+![Circuito no EasyEDA](ing/Circuito_Introdução.png)
+
+![Projeto Real](ing/Diagrama_de_Bloco.png)
