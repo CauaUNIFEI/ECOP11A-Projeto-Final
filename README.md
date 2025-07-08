@@ -5,8 +5,8 @@ Introdução a Programação: Projeto Final com Introdução a Engenharia
 - Cauã Sales Silva (2025006044)
 - Keytwoleany Marjhourie Costa (2025003051)
 - Diuari Campos Félix (2025003060)
-- Ariel Floriano da Silva
-- Maria Eduarda Ribeiro
+- Ariel Floriano da Silva (2024001384)
+- Maria Eduarda Ribeiro (2024016242)
 - Fabrício Silva Celestino (2025007598)
 
 
