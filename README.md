@@ -25,4 +25,4 @@ E também possui um botão manual para desabilitar o alarme e leds para sinaliza
 -Botão
 ## Diagrama em Blocos
 
-[link da imagem](legenda da imagem)
+[file:///C:/Users/cauas/Downloads/Diagrama_de_Bloco.png](legenda da imagem)
