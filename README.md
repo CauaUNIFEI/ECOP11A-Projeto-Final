@@ -34,6 +34,9 @@ E também possui um botão manual para desabilitar o alarme e leds para sinaliza
 
 ## Foto Real
 
+![Circuito no EasyEDA](ing/foto1.jpg)
+![Circuito no EasyEDA](ing/foto2.jpg)
+
 ## Fluxograma
 
 ![Fluxogrma](ing/fluxograma.jpg)
